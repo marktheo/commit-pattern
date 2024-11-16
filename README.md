@@ -14,7 +14,7 @@
 
 - The `Feat` type must be used for changes that add or remove a feature.
 
-- The `Fix` type must be used for changes that rapair bugs.
+- The `Fix` type must be used for changes that repair bugs.
 
 - The `Perf` type must be used for changes that improve performance.
 
